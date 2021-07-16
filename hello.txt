@@ -1,20 +1,6 @@
 hello xc! welcome to Git! 2222222222222222
-hello xc! welcome to Git! 3333333333333333
-hello xc! welcome to Git! 
-hello xc! welcome to Git!
-hello xc! welcome to Git!
+hello xc! welcome to Git! master line
 hello xc! welcome to Git! hot-fix self-modified
-hello xc! welcome to Git!
-hello xc! welcome to Git!
-hello xc! welcome to Git!
-hello xc! welcome to Git!
-hello xc! welcome to Git!
-hello xc! welcome to Git!
-hello xc! welcome to Git!
 hello xc! welcome to Git! master self-modified
-hello xc! welcome to Git!
-hello xc! welcome to Git!
-hello xc! welcome to Git!
-hello xc! welcome to Git!
 hello xc! welcome to Git! master merge area!
 hello xc! welcome to Git! hot-fix merge area!
