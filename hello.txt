@@ -4,3 +4,4 @@ hello xc! welcome to Git! hot-fix self-modified
 hello xc! welcome to Git! master self-modified
 hello xc! welcome to Git! master merge area!
 hello xc! welcome to Git! hot-fix merge area!
+xhxc adds a new line!
